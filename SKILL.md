@@ -208,8 +208,8 @@ ziwei({
 
 ## 参考文件
 
-- `references/xingyao.md` — 十四主星 + 六吉六煞 + 杂曜速查
-- `references/gongwei.md` — 十二宫含义与宫位互动
-- `references/sihua.md` — 四化规则与飞星逻辑
-- `references/pattern-library.md` — 经典格局库
-- `references/shichen.md` — 时辰对照与推算
+- `references/xingyao.md` — 十四主星详解 + 庙陷表 + 四化表现 + 双星组合 + 十二宫摘要 + 六吉六煞杂曜 + 星曜互涉原则
+- `references/gongwei.md` — 十二宫详解 + 三方四正 + 河洛数理 + 宫位干支互动（六合/六冲/三合）+ 叠宫规则 + 来因宫 + 身宫 + 强弱判断体系
+- `references/sihua.md` — 钦天四化（忌转忌/禄转禄）+ 飞星宫干技法 + 自化深解（向心/离心）+ 叠宫四化 + 双禄双忌 + 四化解厄 + 流派差异
+- `references/pattern-library.md` — 45格局（7帝王+8文人+10事业+6财富+8特殊+6六亲）+ 破格救格 + 叠加规则 + 现代转译
+- `references/shichen.md` — 时辰对照 + 真太阳时校正 + 国际时区换算 + 夏令时 + 边界处理 + 定盘法
