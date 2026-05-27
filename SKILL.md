@@ -1,26 +1,44 @@
 ---
 name: ziwei-doushu
+version: 1.0.0
 description: >
-  紫微斗数命盘排盘与解读。使用 MCP 工具 ziwei / ziwei_horoscope / ziwei_flying_star
-  进行专业命盘分析。当用户提到紫微斗数、排盘、命盘、看盘、十四主星、十二宫、四化、
-  大限、流年、飞星时使用此 skill。即使用户只是问运势、事业、感情、财运等具体问题，
-  只要涉及命理分析就应该使用此 skill。
+  When the user asks about 紫微斗数 / Ziwei Doushu / Purple Star Astrology —
+  including 排盘 (chart casting), 命盘解读 (chart reading), 看运势 (fortune reading),
+  事业/感情/财运/健康等命理咨询, or mentions 十四主星 / 十二宫 / 四化 / 大限 / 流年 /
+  飞星 / 七星 / 六吉六煞 — use this skill. Also trigger when the user says 算命,
+  看盘, 算紫微, 帮我看运势, or any request for Chinese metaphysical destiny analysis.
+  Multi-school methodology: Zhongzhou (primary), San He, Fei Xing, Qin Tian Si Hua, He Luo.
 triggers:
   - "紫微斗数"
+  - "Ziwei Doushu"
+  - "Purple Star Astrology"
   - "排盘"
   - "命盘"
   - "看盘"
   - "紫微"
   - "算紫微"
   - "斗数"
+  - "算命"
   - "十二宫"
   - "十四主星"
   - "四化"
   - "飞星"
+  - "七星"
+  - "六吉六煞"
   - "大限"
   - "流年运势"
+  - "流年"
+  - "流月"
+  - "流日"
   - "看运势"
   - "帮我看"
+  - "运势"
+  - "事业运"
+  - "感情运"
+  - "财运"
+  - "命理"
+  - "Chinese astrology"
+  - "destiny analysis"
 allowed-tools: Bash(npx:*) Bash(npm:*)
 ---
 
