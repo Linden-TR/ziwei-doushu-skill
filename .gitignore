@@ -8,3 +8,7 @@ Thumbs.db
 
 # Claude
 .claude/
+
+# Local reference (copyrighted, do not commit)
+王亭之.txt
+**/王亭之.txt
